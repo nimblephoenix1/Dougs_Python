@@ -1,0 +1,1 @@
+[{"date": "pastday", "entity": "work", "catagory": "income", "amount": "500"}, {"date": "pastpastday", "entity": "Smith's", "catagory": "food", "amount": "-60"}, {"date": "today", "entity": "Winco", "catagory": "food", "amount": "-20"}]
